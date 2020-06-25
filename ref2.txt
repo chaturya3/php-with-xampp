@@ -1,0 +1,31 @@
+modules
+        -->product
+       -->search
+       -->order(book)
+      -->report
+      -->Special Items
+
+home
+admin
+product
+Services
+Special Items
+
+admin
+_____
+
+Cake 
+orderview
+customer
+report
+logout
+
+user
+___
+
+search
+order status
+
+logout
+
+	
